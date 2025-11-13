@@ -1,0 +1,40 @@
+.body{
+  padding: 25px;
+}
+.title {
+	color: #5C6AC4;
+}
+.top-bar{
+  min-height: 90px;
+  padding:10px;
+}
+
+.align-items-center{
+  align-items: center;
+  
+}
+.text-primary{
+  color:# !important;
+}
+.text-secondary{
+  color:#16476A !important;
+  
+}
+.bg-primary{
+  color: #CBD99B !important;
+}
+.bg-warning{
+  color:#FFC50F !important;
+  
+  
+}
+.bg-dark{
+  color:#70B2B2 !important;
+  
+  
+}
+.banner-section {
+  background:#FDE7B3;
+
+
+}

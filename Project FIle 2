@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>NGO</title>
+<script src="chrome-extension://ljdobmomdgdljniojadhoplhkpialdid/page/prompt.js"></script>
+<link href="css/style.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+	<div>
+		<div class="page">
+			<div class="top">
+				<div class="header">
+					<div class="header-top">
+						<h1>
+							"Your Company"
+						</h1>
+						<p>Call 000-000-0000 for more</p>
+					</div>
+					<div class="topmenu">
+						<ul>
+							<li style="border-left: medium none;">
+								<a href="index.html">Home</a>
+								</li>
+							<li>
+								<a href="#">About Us</a>
+							</li>
+							<li>
+								<a href="#">What's New</a>
+							</li>
+							<li>
+								<a href="#">Services</a>
+							</li>
+						</ul>
+					</div>
+					
+				</div>
+				<div class="content">
+					<div class="content-left">
+						<div class="row1">
+							<div class="img"></div>
+							<div class="welcome">
+								<h1 class="title">"Welcome to Your Company"</h1>
+								<p>"Lorem Ipsum has been the industry's standard dummy text ever since the
+									1500s, when an unknown printer took a galley of type and scrambled it
+									to make a type specimen book. It has survived not only five centuries,
+									but also the leap into electronic typesetting, remaining essentially
+									unchanged. sn book. It has survived not only five centuries, but also
+									the leap into electronic typesetting, remaining essentially unchanged."
+								</p>
+							</div>
+						</div>
+						<div class="row2">
+							<div class="section1">
+								<h2 class="subtitle">What's New</h2>
+								<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?</p>
+								<p> 
+									<a href="#" class="more">READ MORE<a>
+								</p>
+							</div>
+							<div class="section2">
+								<h2 class="subtitle">Resources</h2>
+								<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?</p>
+								<p> 
+									<a href="#" class="more">READ MORE<a>
+								</p>
+							</div>
+						</div>
+
+
+					</div>
+				</div>
+					<div class="content-right">
+						<h2>Main Menu</h2>
+						<ul>
+							<li style="border-top: medium none;">
+								<a href="#">Link 1</a>
+							</li>
+							<li>
+								<a href="#">Link 2</a>
+							</li>
+							<li>
+								<a href="#">Link 3</a>
+							</li>
+							<li>
+								<a href="#">Link 4</a>
+							</li>
+							<li>
+								<a href="#">Link 5</a>
+							</li>
+							<li>
+								<a href="#">Link 6</a>
+							</li>
+							<li>
+								<a href="#">Link 7</a>
+							</li>
+							<li>
+								<a href="#">Link 8</a>
+							</li>
+
+
+						</ul>
+					</div>
+			</div>
+				
+		</div>
+			<div class="bottom">
+				<ul>
+					<li style="border-left: medium none;">
+						<a href="index.html">Home</a>
+					</li>
+					<li>
+						<a href="#">About Us</a>
+					</li>
+					<li>
+						<a href="#">What's New</a>
+					</li>
+					<li>
+						<a href="#">Services</a>
+					</li>
+					
+				</ul>
+			</div>
+	</div>
+</body>
+</html>
